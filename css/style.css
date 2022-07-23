@@ -1,0 +1,51 @@
+
+
+
+.mine-cal{
+    background-color: gray;
+    min-height: 10%;
+    width: 39%;
+
+}
+ .all-con{
+    margin-bottom: 100%;
+    justify-content: center;
+    
+
+ }
+ .firts-num{
+    text-align: right;
+    color: antiquewhite;
+    font-size: rem;
+ }
+ .r-num{
+    border: 1px solid black;
+    width: 10%;
+    background-color: #bdcebe;
+ }
+ .l-num{
+    border: 1px solid black;
+    width: 10%;
+    background-color: orangered;
+ }
+
+ .zon{
+    border: 1px solid black;
+    width: 20%;
+    background-color: #bdcebe;
+ }
+ .stop{
+    border: 1px solid black;
+    width: 10%;
+    background-color: #bdcebe;
+ }
+ .eqto{
+    border: 1px solid black;
+    width: 10%;
+    background-color: orangered;
+ }
+ p{
+    text-align: center;
+    color: #fff;
+ }
+ 
